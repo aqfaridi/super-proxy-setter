@@ -2,9 +2,9 @@ Instructions to Run -
 
 method I.
 
-    1) chmod 777 spsetter
-    2) sudo ./spsetter
+    1) chmod 777 spsetter.py
+    2) sudo ./spsetter.py
 
 method II.
     
-    1)sudo python spsetter
+    1)sudo python spsetter.py
